@@ -1,0 +1,21 @@
+.Menu {
+  display: flex;
+  margin: auto;
+  color: rgb(0, 0, 0);
+  font-family: Arial;
+  justify-content: center;
+  padding-top: 20px;
+}
+
+.flexbox-button {
+  padding: 20px;
+  margin: 10px;
+  background: linear-gradient(rgb(216, 209, 209), white);
+  border: none;
+}
+.flexbox-button:hover {
+  background: rgb(226, 226, 226);
+}
+.flexbox-button:active {
+  background: rgb(167, 165, 165);
+}
